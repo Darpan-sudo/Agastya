@@ -55,25 +55,107 @@ A comprehensive desktop application for S1000D documentation workflows, built wi
 - **Processing**: Python, Ruby, Java
 - **Dependencies**: Pandoc, Asciidoctor, Saxon XSLT
 
-## 📦 Installation
+## 📦 Installation & Setup
 
-### Portable Version (Recommended)
-1. Download the latest release from the `dist/win-unpacked` folder
-2. Extract to your desired location
+### Option 1: Use Pre-built Portable Version (Easiest)
+1. Download the portable build (not in this repo due to size)
+2. Extract `win-unpacked` folder
 3. Run `Document Tools.exe`
-4. No installation required!
+4. ✅ Ready to use!
 
-### Development Setup
+### Option 2: Build from Source
+
+#### Prerequisites
+You need to install these tools on your system:
+
+1. **Node.js** (v18 or higher)
+   - Download from https://nodejs.org/
+
+2. **Python 3.x**
+   - Download from https://www.python.org/
+   - Install required packages:
+   ```bash
+   pip install pandas openpyxl python-docx lxml beautifulsoup4 Pillow
+   ```
+
+3. **Ruby with Asciidoctor**
+   - Download Ruby from https://rubyinstaller.org/
+   - Install Asciidoctor:
+   ```bash
+   gem install asciidoctor asciidoctor-pdf
+   ```
+
+4. **Java Runtime (JRE)**
+   - Download from https://www.oracle.com/java/technologies/downloads/
+   - Required for Saxon XSLT processor
+
+5. **Pandoc**
+   - Download from https://pandoc.org/installing.html
+
+#### Setup Steps
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/Darpan-sudo/Agastya.git
+cd Agastya
+
+# 2. Install Node.js dependencies
+npm install
+
+# 3. Install frontend dependencies
+cd frontend
+npm install
+cd ..
+
+# 4. Create tools directory structure
+mkdir -p tools/python tools/ruby tools/java tools/pandoc
+
+# 5. Copy your installed tools to the tools directory
+# - Copy Python installation to tools/python/
+# - Copy Ruby installation to tools/ruby/
+# - Copy Java JRE to tools/java/
+# - Copy Pandoc to tools/pandoc/
+
+# 6. Build the frontend
+cd frontend
+npm run build
+cd ..
+
+# 7. Run the application
+npm start
+
+# 8. (Optional) Build portable executable
+npm run pack
+```
+
+#### Quick Start (Development Mode)
+
 ```bash
 # Install dependencies
 npm install
 cd frontend && npm install && cd ..
 
-# Run in development mode
+# Run in development mode (requires tools installed on system PATH)
 npm start
+```
 
-# Build portable executable
-npm run pack
+### Directory Structure After Setup
+
+```
+Agastya/
+├── tools/
+│   ├── python/          # Python runtime + packages
+│   ├── ruby/            # Ruby + Asciidoctor
+│   ├── java/            # Java JRE
+│   ├── pandoc/          # Pandoc executable
+│   └── saxon/           # ✅ Included in repo
+├── frontend/
+│   ├── src/             # ✅ Included in repo
+│   ├── dist/            # Built by npm run build
+│   └── node_modules/    # Installed by npm install
+├── scripts/             # ✅ Included in repo
+├── main.js              # ✅ Included in repo
+└── package.json         # ✅ Included in repo
 ```
 
 ## 🛠️ Architecture
