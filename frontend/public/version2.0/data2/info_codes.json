@@ -1,0 +1,2507 @@
+[
+  {
+    "code": "000",
+    "type": "descript",
+    "title": "Function, data for plans and description"
+  },
+  {
+    "code": "001",
+    "type": "descript",
+    "title": "Title page"
+  },
+  {
+    "code": "002",
+    "type": "descript",
+    "title": "List of pages or data modules"
+  },
+  {
+    "code": "003",
+    "type": "descript",
+    "title": "Change record or highlights"
+  },
+  {
+    "code": "004",
+    "type": "descript",
+    "title": "Access illustration"
+  },
+  {
+    "code": "005",
+    "type": "descript",
+    "title": "List of abbreviations"
+  },
+  {
+    "code": "006",
+    "type": "descript",
+    "title": "List of terms"
+  },
+  {
+    "code": "007",
+    "type": "descript",
+    "title": "List of symbols"
+  },
+  {
+    "code": "008",
+    "type": "descript",
+    "title": "Technical standard record"
+  },
+  {
+    "code": "009",
+    "type": "descript",
+    "title": "Table of contents"
+  },
+  {
+    "code": "010",
+    "type": "descript",
+    "title": "General data"
+  },
+  {
+    "code": "011",
+    "type": "descript",
+    "title": "Function"
+  },
+  {
+    "code": "012",
+    "type": "descript",
+    "title": "General warnings and cautions and related safety data"
+  },
+  {
+    "code": "013",
+    "type": "descript",
+    "title": "Numeric index"
+  },
+  {
+    "code": "014",
+    "type": "descript",
+    "title": "Alphabetic and alphanumeric index"
+  },
+  {
+    "code": "015",
+    "type": "descript",
+    "title": "List of special materials"
+  },
+  {
+    "code": "016",
+    "type": "descript",
+    "title": "List of dangerous materials"
+  },
+  {
+    "code": "017",
+    "type": "descript",
+    "title": "List of related data"
+  },
+  {
+    "code": "018",
+    "type": "descript",
+    "title": "Introduction"
+  },
+  {
+    "code": "019",
+    "type": "descript",
+    "title": "Supplier list"
+  },
+  {
+    "code": "020",
+    "type": "descript",
+    "title": "Configuration"
+  },
+  {
+    "code": "021",
+    "type": "descript",
+    "title": "Copyright"
+  },
+  {
+    "code": "022",
+    "type": "brex",
+    "title": "Business rules exchange"
+  },
+  {
+    "code": "023",
+    "type": "descript",
+    "title": "Administrative forms and data"
+  },
+  {
+    "code": "024",
+    "type": "brdoc",
+    "title": "Business rules"
+  },
+  {
+    "code": "025",
+    "type": "descript",
+    "title": "Export control policy"
+  },
+  {
+    "code": "026",
+    "type": "descript",
+    "title": "Regulatory policy"
+  },
+  {
+    "code": "028",
+    "type": "descript",
+    "title": "General"
+  },
+  {
+    "code": "029",
+    "type": "descript",
+    "title": "Data structure"
+  },
+  {
+    "code": "030",
+    "type": "descript",
+    "title": "Technical data"
+  },
+  {
+    "code": "031",
+    "type": "descript",
+    "title": "Electrical standard parts data"
+  },
+  {
+    "code": "033",
+    "type": "descript",
+    "title": "Technical data (functional breakdown)"
+  },
+  {
+    "code": "034",
+    "type": "descript",
+    "title": "Technical data (physical breakdown)"
+  },
+  {
+    "code": "040",
+    "type": "descript",
+    "title": "Description"
+  },
+  {
+    "code": "041",
+    "type": "descript",
+    "title": "Description of how it is made"
+  },
+  {
+    "code": "042",
+    "type": "descript",
+    "title": "Description of function"
+  },
+  {
+    "code": "043",
+    "type": "descript",
+    "title": "Description of function attributed to crew (functional breakdown)"
+  },
+  {
+    "code": "044",
+    "type": "descript",
+    "title": "Description of function (physical breakdown)"
+  },
+  {
+    "code": "045",
+    "type": "descript",
+    "title": "Designated use"
+  },
+  {
+    "code": "046",
+    "type": "descript",
+    "title": "Dependence on peripheral systems/equipment"
+  },
+  {
+    "code": "050",
+    "type": "descript",
+    "title": "Diagram/List"
+  },
+  {
+    "code": "051",
+    "type": "descript",
+    "title": "Wiring diagram"
+  },
+  {
+    "code": "052",
+    "type": "descript",
+    "title": "Routing diagram"
+  },
+  {
+    "code": "053",
+    "type": "descript",
+    "title": "Connection list"
+  },
+  {
+    "code": "054",
+    "type": "descript",
+    "title": "Schematic diagram"
+  },
+  {
+    "code": "055",
+    "type": "descript",
+    "title": "Location diagram"
+  },
+  {
+    "code": "056",
+    "type": "descript",
+    "title": "Equipment list"
+  },
+  {
+    "code": "057",
+    "type": "descript",
+    "title": "Wire list"
+  },
+  {
+    "code": "058",
+    "type": "descript",
+    "title": "Harness list"
+  },
+  {
+    "code": "059",
+    "type": "descript",
+    "title": "Maintenance envelope diagram"
+  },
+  {
+    "code": "060",
+    "type": "descript",
+    "title": "Product support equipment, tools and software"
+  },
+  {
+    "code": "061",
+    "type": "descript",
+    "title": "Special support equipment and tools"
+  },
+  {
+    "code": "062",
+    "type": "descript",
+    "title": "Standard support equipment and tools"
+  },
+  {
+    "code": "063",
+    "type": "descript",
+    "title": "Government supplied support equipment and tools"
+  },
+  {
+    "code": "064",
+    "type": "descript",
+    "title": "Locally made support equipment and tools"
+  },
+  {
+    "code": "065",
+    "type": "descript",
+    "title": "Software"
+  },
+  {
+    "code": "066",
+    "type": "descript",
+    "title": "Support equipment and tools data"
+  },
+  {
+    "code": "067",
+    "type": "descript",
+    "title": "Decals and instruction plates"
+  },
+  {
+    "code": "070",
+    "type": "descript",
+    "title": "Consumables, materials and expendables"
+  },
+  {
+    "code": "071",
+    "type": "descript",
+    "title": "Consumables"
+  },
+  {
+    "code": "072",
+    "type": "descript",
+    "title": "Materials"
+  },
+  {
+    "code": "073",
+    "type": "descript",
+    "title": "Expendables"
+  },
+  {
+    "code": "074",
+    "type": "descript",
+    "title": "Data sheet for dangerous consumables and materials"
+  },
+  {
+    "code": "075",
+    "type": "descript",
+    "title": "Parts list"
+  },
+  {
+    "code": "076",
+    "type": "descript",
+    "title": "Fluid"
+  },
+  {
+    "code": "077",
+    "type": "descript",
+    "title": "Data sheet for consumables and materials"
+  },
+  {
+    "code": "078",
+    "type": "descript",
+    "title": "Fasteners"
+  },
+  {
+    "code": "080",
+    "type": "descript",
+    "title": "Mixture and solution"
+  },
+  {
+    "code": "081",
+    "type": "descript",
+    "title": "Chemical solution"
+  },
+  {
+    "code": "082",
+    "type": "descript",
+    "title": "Chemical mixture"
+  },
+  {
+    "code": "090",
+    "type": "descript",
+    "title": "Software documentation"
+  },
+  {
+    "code": "096",
+    "type": "descript",
+    "title": "Safety critical items and parts"
+  },
+  {
+    "code": "100",
+    "type": "proced",
+    "title": "Operation"
+  },
+  {
+    "code": "101",
+    "type": "descript",
+    "title": "List of consumables associated with operation"
+  },
+  {
+    "code": "102",
+    "type": "descript",
+    "title": "List of materials associated with operation"
+  },
+  {
+    "code": "103",
+    "type": "descript",
+    "title": "List of expendables associated with operation"
+  },
+  {
+    "code": "104",
+    "type": "descript",
+    "title": "List of special support equipment and tools associated with operation"
+  },
+  {
+    "code": "105",
+    "type": "descript",
+    "title": "List of support equipment and tools associated with operation"
+  },
+  {
+    "code": "106",
+    "type": "descript",
+    "title": "List of software associated with operation"
+  },
+  {
+    "code": "107",
+    "type": "descript",
+    "title": "Parts list associated with operation"
+  },
+  {
+    "code": "110",
+    "type": "descript",
+    "title": "Controls and indicators"
+  },
+  {
+    "code": "111",
+    "type": "descript",
+    "title": "Controls and indicators"
+  },
+  {
+    "code": "112",
+    "type": "descript",
+    "title": "Modes of operations"
+  },
+  {
+    "code": "115",
+    "type": "descript",
+    "title": "Displays and alerts"
+  },
+  {
+    "code": "120",
+    "type": "proced",
+    "title": "Pre-operation"
+  },
+  {
+    "code": "121",
+    "type": "proced",
+    "title": "Pre-operation procedure"
+  },
+  {
+    "code": "122",
+    "type": "proced",
+    "title": "Siting"
+  },
+  {
+    "code": "123",
+    "type": "proced",
+    "title": "Shelter"
+  },
+  {
+    "code": "125",
+    "type": "checklist",
+    "title": "Pre-operation procedures checklist"
+  },
+  {
+    "code": "126",
+    "type": "descript",
+    "title": "Conditions of readiness"
+  },
+  {
+    "code": "127",
+    "type": "proced",
+    "title": "Establish operating position"
+  },
+  {
+    "code": "130",
+    "type": "proced",
+    "title": "Normal operation"
+  },
+  {
+    "code": "131",
+    "type": "proced",
+    "title": "Normal operation procedure"
+  },
+  {
+    "code": "132",
+    "type": "proced",
+    "title": "Start-up procedure for maintenance"
+  },
+  {
+    "code": "133",
+    "type": "proced",
+    "title": "Shutdown procedure for maintenance"
+  },
+  {
+    "code": "134",
+    "type": "checklist",
+    "title": "Aviation checklist"
+  },
+  {
+    "code": "135",
+    "type": "checklist",
+    "title": "Normal operation procedures checklist"
+  },
+  {
+    "code": "136",
+    "type": "checklist",
+    "title": "Ground running check"
+  },
+  {
+    "code": "138",
+    "type": "descript",
+    "title": "Ground running performance adjustment"
+  },
+  {
+    "code": "139",
+    "type": "proced",
+    "title": "Nuclear, biological and chemical procedures"
+  },
+  {
+    "code": "140",
+    "type": "proced",
+    "title": "Emergency procedure"
+  },
+  {
+    "code": "141",
+    "type": "proced",
+    "title": "Emergency operation procedure"
+  },
+  {
+    "code": "142",
+    "type": "proced",
+    "title": "Operation under unusual conditions"
+  },
+  {
+    "code": "143",
+    "type": "proced",
+    "title": "Radio interference suppression"
+  },
+  {
+    "code": "144",
+    "type": "descript",
+    "title": "Jamming and electronic countermeasures (ECM)"
+  },
+  {
+    "code": "145",
+    "type": "checklist",
+    "title": "Emergency operation procedures checklist"
+  },
+  {
+    "code": "146",
+    "type": "proced",
+    "title": "Emergency shutdown operation procedure"
+  },
+  {
+    "code": "150",
+    "type": "proced",
+    "title": "Post-operation"
+  },
+  {
+    "code": "151",
+    "type": "proced",
+    "title": "Post-operation procedure"
+  },
+  {
+    "code": "155",
+    "type": "checklist",
+    "title": "Post-operation procedures checklist"
+  },
+  {
+    "code": "157",
+    "type": "proced",
+    "title": "Establish maintenance position"
+  },
+  {
+    "code": "160",
+    "type": "proced",
+    "title": "Loading/Unloading procedure"
+  },
+  {
+    "code": "161",
+    "type": "proced",
+    "title": "Special operation"
+  },
+  {
+    "code": "162",
+    "type": "proced",
+    "title": "Non-tactical operation"
+  },
+  {
+    "code": "169",
+    "type": "proced",
+    "title": "Mass and Balance"
+  },
+  {
+    "code": "170",
+    "type": "proced",
+    "title": "Handling"
+  },
+  {
+    "code": "171",
+    "type": "proced",
+    "title": "Lifting"
+  },
+  {
+    "code": "172",
+    "type": "proced",
+    "title": "Jacking"
+  },
+  {
+    "code": "173",
+    "type": "proced",
+    "title": "Shoring"
+  },
+  {
+    "code": "174",
+    "type": "proced",
+    "title": "Towing"
+  },
+  {
+    "code": "175",
+    "type": "proced",
+    "title": "Taxiing"
+  },
+  {
+    "code": "176",
+    "type": "proced",
+    "title": "Lowering"
+  },
+  {
+    "code": "177",
+    "type": "proced",
+    "title": "Stabilizing"
+  },
+  {
+    "code": "178",
+    "type": "proced",
+    "title": "Tethering"
+  },
+  {
+    "code": "179",
+    "type": "proced",
+    "title": "Debogging"
+  },
+  {
+    "code": "180",
+    "type": "proced",
+    "title": "Dispatch deviation"
+  },
+  {
+    "code": "181",
+    "type": "proced",
+    "title": "Deactivate for dispatch deviation"
+  },
+  {
+    "code": "200",
+    "type": "proced",
+    "title": "Servicing"
+  },
+  {
+    "code": "201",
+    "type": "descript",
+    "title": "List of consumables associated with servicing"
+  },
+  {
+    "code": "202",
+    "type": "descript",
+    "title": "List of materials associated with servicing"
+  },
+  {
+    "code": "203",
+    "type": "descript",
+    "title": "List of expendables associated with servicing"
+  },
+  {
+    "code": "204",
+    "type": "descript",
+    "title": "List of special support equipment and tools associated with servicing"
+  },
+  {
+    "code": "205",
+    "type": "descript",
+    "title": "List of support equipment and tools associated with servicing"
+  },
+  {
+    "code": "206",
+    "type": "descript",
+    "title": "List of software associated with servicing"
+  },
+  {
+    "code": "207",
+    "type": "descript",
+    "title": "Parts list associated with servicing"
+  },
+  {
+    "code": "210",
+    "type": "proced",
+    "title": "Fill"
+  },
+  {
+    "code": "211",
+    "type": "proced",
+    "title": "Refuel"
+  },
+  {
+    "code": "212",
+    "type": "proced",
+    "title": "Fill with oik"
+  },
+  {
+    "code": "213",
+    "type": "proced",
+    "title": "Fill with oxygen"
+  },
+  {
+    "code": "214",
+    "type": "proced",
+    "title": "Fill with nitrogen"
+  },
+  {
+    "code": "215",
+    "type": "proced",
+    "title": "Fill with air"
+  },
+  {
+    "code": "216",
+    "type": "proced",
+    "title": "Fill with water"
+  },
+  {
+    "code": "217",
+    "type": "proced",
+    "title": "Fill with hydrogen"
+  },
+  {
+    "code": "218",
+    "type": "proced",
+    "title": "Fill with other liquid"
+  },
+  {
+    "code": "219",
+    "type": "proced",
+    "title": "Fill with other gas"
+  },
+  {
+    "code": "220",
+    "type": "proced",
+    "title": "Drain liquid and release pressure"
+  },
+  {
+    "code": "221",
+    "type": "proced",
+    "title": "Defuel and drain fuel"
+  },
+  {
+    "code": "222",
+    "type": "proced",
+    "title": "Drain oil"
+  },
+  {
+    "code": "223",
+    "type": "proced",
+    "title": "Release oxygen pressure"
+  },
+  {
+    "code": "224",
+    "type": "proced",
+    "title": "Release nitrogen pressure"
+  },
+  {
+    "code": "225",
+    "type": "proced",
+    "title": "Release air pressure"
+  },
+  {
+    "code": "226",
+    "type": "proced",
+    "title": "Drain water"
+  },
+  {
+    "code": "227",
+    "type": "proced",
+    "title": "Release hydrogen pressure"
+  },
+  {
+    "code": "228",
+    "type": "proced",
+    "title": "Drain other liquid"
+  },
+  {
+    "code": "229",
+    "type": "proced",
+    "title": "Release other gas pressure"
+  },
+  {
+    "code": "230",
+    "type": "proced",
+    "title": "Bleed and prime"
+  },
+  {
+    "code": "231",
+    "type": "proced",
+    "title": "Bleed"
+  },
+  {
+    "code": "232",
+    "type": "proced",
+    "title": "Prime"
+  },
+  {
+    "code": "233",
+    "type": "proced",
+    "title": "Dry"
+  },
+  {
+    "code": "234",
+    "type": "proced",
+    "title": "Facility requirements associated with servicing"
+  },
+  {
+    "code": "235",
+    "type": "proced",
+    "title": "Flush"
+  },
+  {
+    "code": "236",
+    "type": "proced",
+    "title": "Fill with inert has/inert liquid"
+  },
+  {
+    "code": "237",
+    "type": "proced",
+    "title": "Evacuate"
+  },
+  {
+    "code": "240",
+    "type": "proced",
+    "title": "Lubrication"
+  },
+  {
+    "code": "241",
+    "type": "proced",
+    "title": "Oil"
+  },
+  {
+    "code": "242",
+    "type": "proced",
+    "title": "Grease"
+  },
+  {
+    "code": "243",
+    "type": "proced",
+    "title": "Dry film"
+  },
+  {
+    "code": "250",
+    "type": "proced",
+    "title": "Clean and apply surface protection"
+  },
+  {
+    "code": "251",
+    "type": "proced",
+    "title": "Clean with chemical agent"
+  },
+  {
+    "code": "252",
+    "type": "proced",
+    "title": "Clean by abrasive blast"
+  },
+  {
+    "code": "253",
+    "type": "proced",
+    "title": "Clean by ultrasonics"
+  },
+  {
+    "code": "254",
+    "type": "proced",
+    "title": "Clean mechanically"
+  },
+  {
+    "code": "255",
+    "type": "proced",
+    "title": "Purge"
+  },
+  {
+    "code": "256",
+    "type": "proced",
+    "title": "Polish and apply wax"
+  },
+  {
+    "code": "257",
+    "type": "proced",
+    "title": "Paint and apply marking"
+  },
+  {
+    "code": "258",
+    "type": "proced",
+    "title": "Other procedure to clean"
+  },
+  {
+    "code": "259",
+    "type": "proced",
+    "title": "Other procedure to protect surface"
+  },
+  {
+    "code": "260",
+    "type": "proced",
+    "title": "Remove and prevent ice and remove contamination"
+  },
+  {
+    "code": "261",
+    "type": "proced",
+    "title": "Remove ice"
+  },
+  {
+    "code": "262",
+    "type": "proced",
+    "title": "Prevent ice"
+  },
+  {
+    "code": "263",
+    "type": "proced",
+    "title": "Use disinfectant/Sanitize"
+  },
+  {
+    "code": "264",
+    "type": "proced",
+    "title": "Remove contamination"
+  },
+  {
+    "code": "270",
+    "type": "proced",
+    "title": "Adjust, align and calibrate"
+  },
+  {
+    "code": "271",
+    "type": "proced",
+    "title": "Adjust"
+  },
+  {
+    "code": "272",
+    "type": "proced",
+    "title": "Align"
+  },
+  {
+    "code": "273",
+    "type": "proced",
+    "title": "Calibrate"
+  },
+  {
+    "code": "274",
+    "type": "proced",
+    "title": "Harmonize"
+  },
+  {
+    "code": "275",
+    "type": "proced",
+    "title": "Grooming"
+  },
+  {
+    "code": "276",
+    "type": "proced",
+    "title": "Rig"
+  },
+  {
+    "code": "277",
+    "type": "proced",
+    "title": "Compensate"
+  },
+  {
+    "code": "278",
+    "type": "proced",
+    "title": "Easily and quickly adjust after a battle damage repair"
+  },
+  {
+    "code": "279",
+    "type": "proced",
+    "title": "Easily and quicky align after a battle damage repair"
+  },
+  {
+    "code": "280",
+    "type": "proced",
+    "title": "Inspection"
+  },
+  {
+    "code": "281",
+    "type": "proced",
+    "title": "Scheduled inspection"
+  },
+  {
+    "code": "282",
+    "type": "proced",
+    "title": "Unscheduled inspection"
+  },
+  {
+    "code": "283",
+    "type": "proced",
+    "title": "Special regular inspection"
+  },
+  {
+    "code": "284",
+    "type": "proced",
+    "title": "Special irregular inspection"
+  },
+  {
+    "code": "285",
+    "type": "proced",
+    "title": "Structure inspection for allowable damage limits"
+  },
+  {
+    "code": "286",
+    "type": "proced",
+    "title": "Structure inspection for repair"
+  },
+  {
+    "code": "288",
+    "type": "descript",
+    "title": "Overhaul and retirement schedule"
+  },
+  {
+    "code": "289",
+    "type": "proced",
+    "title": "Check filling quantity"
+  },
+  {
+    "code": "290",
+    "type": "proced",
+    "title": "Change of liquid/has"
+  },
+  {
+    "code": "292",
+    "type": "proced",
+    "title": "Change of oil"
+  },
+  {
+    "code": "293",
+    "type": "proced",
+    "title": "Change of oxygen"
+  },
+  {
+    "code": "294",
+    "type": "proced",
+    "title": "Change of nitrogen"
+  },
+  {
+    "code": "295",
+    "type": "proced",
+    "title": "Change of air"
+  },
+  {
+    "code": "296",
+    "type": "proced",
+    "title": "Change of water"
+  },
+  {
+    "code": "297",
+    "type": "proced",
+    "title": "Change of hydrogen"
+  },
+  {
+    "code": "298",
+    "type": "proced",
+    "title": "Change of other liquid"
+  },
+  {
+    "code": "299",
+    "type": "proced",
+    "title": "Change of other gas"
+  },
+  {
+    "code": "300",
+    "type": "descript",
+    "title": "Examinations, tests and checks"
+  },
+  {
+    "code": "301",
+    "type": "descript",
+    "title": "List of consumables associated with examinations, test and checks"
+  },
+  {
+    "code": "302",
+    "type": "descript",
+    "title": "List of materials associated with examinations, tests and checks"
+  },
+  {
+    "code": "303",
+    "type": "descript",
+    "title": "List of expendables associated with examinations, tests and checks"
+  },
+  {
+    "code": "304",
+    "type": "descript",
+    "title": "List of special support equipment and tools associated with examinations, tests and checks"
+  },
+  {
+    "code": "305",
+    "type": "descript",
+    "title": "List of support equipment and tools associated with examinations, tests and checks"
+  },
+  {
+    "code": "306",
+    "type": "descript",
+    "title": "List of software associated with examinations, tests and checks"
+  },
+  {
+    "code": "307",
+    "type": "descript",
+    "title": "Parts list associated with examinations, tests and checks"
+  },
+  {
+    "code": "310",
+    "type": "proced",
+    "title": "Visual examination"
+  },
+  {
+    "code": "311",
+    "type": "proced",
+    "title": "Visual examination without special equipment"
+  },
+  {
+    "code": "312",
+    "type": "proced",
+    "title": "Examination with a borescope"
+  },
+  {
+    "code": "315",
+    "type": "descript",
+    "title": "QA requirements"
+  },
+  {
+    "code": "320",
+    "type": "proced",
+    "title": "Operation test"
+  },
+  {
+    "code": "321",
+    "type": "proced",
+    "title": "Unit break-in"
+  },
+  {
+    "code": "322",
+    "type": "proced",
+    "title": "Test and inspection"
+  },
+  {
+    "code": "330",
+    "type": "proced",
+    "title": "Test preparation"
+  },
+  {
+    "code": "331",
+    "type": "proced",
+    "title": "Connection of test equipment"
+  },
+  {
+    "code": "332",
+    "type": "proced",
+    "title": "Removal of test equipment"
+  },
+  {
+    "code": "333",
+    "type": "proced",
+    "title": "Installation of the unit before the test"
+  },
+  {
+    "code": "334",
+    "type": "proced",
+    "title": "Removal of the unit after the test"
+  },
+  {
+    "code": "335",
+    "type": "proced",
+    "title": "Final measures"
+  },
+  {
+    "code": "340",
+    "type": "proced",
+    "title": "Function test"
+  },
+  {
+    "code": "341",
+    "type": "proced",
+    "title": "Manual test"
+  },
+  {
+    "code": "342",
+    "type": "proced",
+    "title": "Automatic test"
+  },
+  {
+    "code": "343",
+    "type": "proced",
+    "title": "BIT"
+  },
+  {
+    "code": "344",
+    "type": "proced",
+    "title": "Compatability test"
+  },
+  {
+    "code": "345",
+    "type": "proced",
+    "title": "System test"
+  },
+  {
+    "code": "346",
+    "type": "proced",
+    "title": "Other check"
+  },
+  {
+    "code": "347",
+    "type": "proced",
+    "title": "Start-up procedure for test"
+  },
+  {
+    "code": "348",
+    "type": "proced",
+    "title": "Final acceptance test (FAT)"
+  },
+  {
+    "code": "349",
+    "type": "descript",
+    "title": "Test records"
+  },
+  {
+    "code": "350",
+    "type": "proced",
+    "title": "Structure test"
+  },
+  {
+    "code": "351",
+    "type": "proced",
+    "title": "Test for surface cracks with dye penetrant"
+  },
+  {
+    "code": "352",
+    "type": "proced",
+    "title": "Test for surface cracks wth magnetic particles"
+  },
+  {
+    "code": "353",
+    "type": "proced",
+    "title": "Test for cracks and other defects with eddy current"
+  },
+  {
+    "code": "354",
+    "type": "proced",
+    "title": "Test for cracks and other defects with X-rays"
+  },
+  {
+    "code": "355",
+    "type": "proced",
+    "title": "Test for cracks and other defects with ultrasonics"
+  },
+  {
+    "code": "356",
+    "type": "proced",
+    "title": "Hardness test"
+  },
+  {
+    "code": "357",
+    "type": "proced",
+    "title": "Gamma-ray test"
+  },
+  {
+    "code": "358",
+    "type": "proced",
+    "title": "Resonance frequency test"
+  },
+  {
+    "code": "359",
+    "type": "proced",
+    "title": "Thermographic test"
+  },
+  {
+    "code": "360",
+    "type": "proced",
+    "title": "Design data/tolerances check"
+  },
+  {
+    "code": "361",
+    "type": "proced",
+    "title": "Dimensions check"
+  },
+  {
+    "code": "362",
+    "type": "proced",
+    "title": "Pressure check"
+  },
+  {
+    "code": "363",
+    "type": "proced",
+    "title": "Flow check"
+  },
+  {
+    "code": "364",
+    "type": "proced",
+    "title": "Leak check"
+  },
+  {
+    "code": "365",
+    "type": "proced",
+    "title": "Continuity check"
+  },
+  {
+    "code": "366",
+    "type": "proced",
+    "title": "Resistance check"
+  },
+  {
+    "code": "367",
+    "type": "proced",
+    "title": "Electrical power check"
+  },
+  {
+    "code": "368",
+    "type": "proced",
+    "title": "Signal strength check"
+  },
+  {
+    "code": "369",
+    "type": "proced",
+    "title": "Other check"
+  },
+  {
+    "code": "370",
+    "type": "proced",
+    "title": "Monitor the condition"
+  },
+  {
+    "code": "371",
+    "type": "proced",
+    "title": "Oil analysis"
+  },
+  {
+    "code": "372",
+    "type": "proced",
+    "title": "Vibration analysis"
+  },
+  {
+    "code": "373",
+    "type": "proced",
+    "title": "Tracking check"
+  },
+  {
+    "code": "374",
+    "type": "proced",
+    "title": "Fuel analysis"
+  },
+  {
+    "code": "375",
+    "type": "proced",
+    "title": "Shooting accidental discharge analysis"
+  },
+  {
+    "code": "376",
+    "type": "proced",
+    "title": "Check post application of adhesive"
+  },
+  {
+    "code": "377",
+    "type": "proced",
+    "title": "Contamination analysis"
+  },
+  {
+    "code": "390",
+    "type": "proced",
+    "title": "Sample test"
+  },
+  {
+    "code": "396",
+    "type": "proced",
+    "title": "Flight control surface movement"
+  },
+  {
+    "code": "397",
+    "type": "proced",
+    "title": "Landing gear movement"
+  },
+  {
+    "code": "398",
+    "type": "proced",
+    "title": "Product configuration"
+  },
+  {
+    "code": "400",
+    "type": "fault",
+    "title": "Fault reports and isolation procedures"
+  },
+  {
+    "code": "401",
+    "type": "descript",
+    "title": "List of consumables associated with fault diagnosis"
+  },
+  {
+    "code": "402",
+    "type": "descript",
+    "title": "List of materials associated with fault diagnosis"
+  },
+  {
+    "code": "403",
+    "type": "descript",
+    "title": "List of expendables associated with fault diagnosis"
+  },
+  {
+    "code": "404",
+    "type": "descript",
+    "title": "List of special support equipment and tools associated with fault diagnosis"
+  },
+  {
+    "code": "405",
+    "type": "descript",
+    "title": "List of support equipment and tools associated with fault diagnosis"
+  },
+  {
+    "code": "406",
+    "type": "descript",
+    "title": "List of software associated with fault diagnosis"
+  },
+  {
+    "code": "407",
+    "type": "descript",
+    "title": "Parts list associated with fault diagnosis"
+  },
+  {
+    "code": "410",
+    "type": "fault",
+    "title": "General fault description"
+  },
+  {
+    "code": "411",
+    "type": "fault",
+    "title": "Isolated fault"
+  },
+  {
+    "code": "412",
+    "type": "fault",
+    "title": "Detected fault"
+  },
+  {
+    "code": "413",
+    "type": "fault",
+    "title": "Observed fault"
+  },
+  {
+    "code": "414",
+    "type": "fault",
+    "title": "Correlated fault"
+  },
+  {
+    "code": "415",
+    "type": "fault",
+    "title": "Impact of fault"
+  },
+  {
+    "code": "420",
+    "type": "fault",
+    "title": "General fault isolation procedure"
+  },
+  {
+    "code": "421",
+    "type": "fault",
+    "title": "Fault isolation procedure"
+  },
+  {
+    "code": "422",
+    "type": "fault",
+    "title": "Fault isolation procedure"
+  },
+  {
+    "code": "423",
+    "type": "fault",
+    "title": "Fault isolation procedure"
+  },
+  {
+    "code": "424",
+    "type": "fault",
+    "title": "Fault isolation procedure"
+  },
+  {
+    "code": "425",
+    "type": "fault",
+    "title": "Fault isolation procedure"
+  },
+  {
+    "code": "426",
+    "type": "fault",
+    "title": "Fault isolation procedure"
+  },
+  {
+    "code": "427",
+    "type": "fault",
+    "title": "Fault isolation procedure"
+  },
+  {
+    "code": "428",
+    "type": "fault",
+    "title": "Fault isolation procedure"
+  },
+  {
+    "code": "429",
+    "type": "descript",
+    "title": "Diagnostics"
+  },
+  {
+    "code": "430",
+    "type": "descript",
+    "title": "Fault isolation task supporting data"
+  },
+  {
+    "code": "440",
+    "type": "descript",
+    "title": "Index"
+  },
+  {
+    "code": "441",
+    "type": "descript",
+    "title": "Fault code index"
+  },
+  {
+    "code": "442",
+    "type": "descript",
+    "title": "Maintenance message index"
+  },
+  {
+    "code": "443",
+    "type": "proced",
+    "title": "Post-troubleshooting shutdown procedure"
+  },
+  {
+    "code": "500",
+    "type": "proced",
+    "title": "Disconnect, remove and disassembly procedures"
+  },
+  {
+    "code": "501",
+    "type": "descript",
+    "title": "List of consumables associated with removal"
+  },
+  {
+    "code": "502",
+    "type": "descript",
+    "title": "List of materials associated with removal"
+  },
+  {
+    "code": "503",
+    "type": "descript",
+    "title": "List of expendables associated with removal"
+  },
+  {
+    "code": "504",
+    "type": "descript",
+    "title": "List of special support equipment and tools associated with removal"
+  },
+  {
+    "code": "505",
+    "type": "descript",
+    "title": "List of support equipment and tools associated with removal"
+  },
+  {
+    "code": "506",
+    "type": "descript",
+    "title": "List of software associated with removal"
+  },
+  {
+    "code": "507",
+    "type": "descript",
+    "title": "Parts list associated with removal"
+  },
+  {
+    "code": "510",
+    "type": "proced",
+    "title": "Disconnect procedure"
+  },
+  {
+    "code": "520",
+    "type": "proced",
+    "title": "Remove procedure"
+  },
+  {
+    "code": "521",
+    "type": "proced",
+    "title": "Return to basic configuration"
+  },
+  {
+    "code": "522",
+    "type": "proced",
+    "title": "Remove support equipment/Remove from support equipment"
+  },
+  {
+    "code": "523",
+    "type": "proced",
+    "title": "Preparation before removal"
+  },
+  {
+    "code": "524",
+    "type": "proced",
+    "title": "Follow-on maintenance"
+  },
+  {
+    "code": "525",
+    "type": "proced",
+    "title": "Ammunition unloading"
+  },
+  {
+    "code": "526",
+    "type": "proced",
+    "title": "Deactivate launching device"
+  },
+  {
+    "code": "530",
+    "type": "proced",
+    "title": "Disassemble procedure"
+  },
+  {
+    "code": "531",
+    "type": "proced",
+    "title": "Disassemble on operation site"
+  },
+  {
+    "code": "540",
+    "type": "proced",
+    "title": "Open for access procedure"
+  },
+  {
+    "code": "550",
+    "type": "proced",
+    "title": "Unload software procedure"
+  },
+  {
+    "code": "551",
+    "type": "proced",
+    "title": "Fault monitoring storage readout (downloading)"
+  },
+  {
+    "code": "552",
+    "type": "proced",
+    "title": "Data erasing"
+  },
+  {
+    "code": "553",
+    "type": "proced",
+    "title": "Display, copy and print of data"
+  },
+  {
+    "code": "560",
+    "type": "proced",
+    "title": "Deactivation procedure"
+  },
+  {
+    "code": "561",
+    "type": "proced",
+    "title": "De-energize electrical network"
+  },
+  {
+    "code": "562",
+    "type": "proced",
+    "title": "Depressurize hydraulics"
+  },
+  {
+    "code": "563",
+    "type": "proced",
+    "title": "Deactivation maintenance practice"
+  },
+  {
+    "code": "600",
+    "type": "descript",
+    "title": "Repairs and locally make procedures and data"
+  },
+  {
+    "code": "601",
+    "type": "descript",
+    "title": "List of consumables associated with repairs"
+  },
+  {
+    "code": "602",
+    "type": "descript",
+    "title": "List of materials associated with repairs"
+  },
+  {
+    "code": "603",
+    "type": "descript",
+    "title": "List of expendables associated with repairs"
+  },
+  {
+    "code": "604",
+    "type": "descript",
+    "title": "List of special support equipment and tools associated with repairs"
+  },
+  {
+    "code": "605",
+    "type": "descript",
+    "title": "List of support equipment and tools associated with repairs"
+  },
+  {
+    "code": "606",
+    "type": "descript",
+    "title": "List of software associated with repairs"
+  },
+  {
+    "code": "607",
+    "type": "descript",
+    "title": "Parts list associated with repairs"
+  },
+  {
+    "code": "610",
+    "type": "proced",
+    "title": "Add material"
+  },
+  {
+    "code": "611",
+    "type": "proced",
+    "title": "Insulation"
+  },
+  {
+    "code": "612",
+    "type": "proced",
+    "title": "Metalize"
+  },
+  {
+    "code": "613",
+    "type": "proced",
+    "title": "Pot"
+  },
+  {
+    "code": "614",
+    "type": "proced",
+    "title": "Remetal"
+  },
+  {
+    "code": "615",
+    "type": "proced",
+    "title": "Retread"
+  },
+  {
+    "code": "620",
+    "type": "proced",
+    "title": "Attach material"
+  },
+  {
+    "code": "621",
+    "type": "proced",
+    "title": "Bond"
+  },
+  {
+    "code": "622",
+    "type": "proced",
+    "title": "Crimp"
+  },
+  {
+    "code": "623",
+    "type": "proced",
+    "title": "Braze"
+  },
+  {
+    "code": "624",
+    "type": "proced",
+    "title": "Rivet"
+  },
+  {
+    "code": "625",
+    "type": "proced",
+    "title": "Solder"
+  },
+  {
+    "code": "626",
+    "type": "proced",
+    "title": "Splice"
+  },
+  {
+    "code": "627",
+    "type": "proced",
+    "title": "Weld"
+  },
+  {
+    "code": "630",
+    "type": "proced",
+    "title": "Change the mechanical strength/structure of material"
+  },
+  {
+    "code": "631",
+    "type": "proced",
+    "title": "Anneal"
+  },
+  {
+    "code": "632",
+    "type": "proced",
+    "title": "Case harden"
+  },
+  {
+    "code": "633",
+    "type": "proced",
+    "title": "Cure"
+  },
+  {
+    "code": "634",
+    "type": "proced",
+    "title": "Normalize"
+  },
+  {
+    "code": "635",
+    "type": "proced",
+    "title": "Shot-peen"
+  },
+  {
+    "code": "636",
+    "type": "proced",
+    "title": "Temper"
+  },
+  {
+    "code": "638",
+    "type": "proced",
+    "title": "Other treatment"
+  },
+  {
+    "code": "639",
+    "type": "proced",
+    "title": "Other process to change the mechanical strength/structure of material"
+  },
+  {
+    "code": "640",
+    "type": "proced",
+    "title": "Change the surface finish of material"
+  },
+  {
+    "code": "641",
+    "type": "proced",
+    "title": "Anodize"
+  },
+  {
+    "code": "642",
+    "type": "proced",
+    "title": "Buff"
+  },
+  {
+    "code": "643",
+    "type": "proced",
+    "title": "Burnish"
+  },
+  {
+    "code": "644",
+    "type": "proced",
+    "title": "Chromate"
+  },
+  {
+    "code": "645",
+    "type": "proced",
+    "title": "Hone"
+  },
+  {
+    "code": "646",
+    "type": "proced",
+    "title": "Lap"
+  },
+  {
+    "code": "647",
+    "type": "proced",
+    "title": "Plate"
+  },
+  {
+    "code": "648",
+    "type": "proced",
+    "title": "Polish"
+  },
+  {
+    "code": "649",
+    "type": "proced",
+    "title": "Cleanup of dents, cracks and scratches"
+  },
+  {
+    "code": "650",
+    "type": "proced",
+    "title": "Remove material"
+  },
+  {
+    "code": "651",
+    "type": "proced",
+    "title": "Abrasive blast"
+  },
+  {
+    "code": "652",
+    "type": "proced",
+    "title": "Bore/drill/ream"
+  },
+  {
+    "code": "653",
+    "type": "proced",
+    "title": "Electrical/electrochemical/chemical etch"
+  },
+  {
+    "code": "654",
+    "type": "proced",
+    "title": "Broach"
+  },
+  {
+    "code": "655",
+    "type": "proced",
+    "title": "Grind"
+  },
+  {
+    "code": "656",
+    "type": "proced",
+    "title": "Mill"
+  },
+  {
+    "code": "657",
+    "type": "proced",
+    "title": "Thread/tap"
+  },
+  {
+    "code": "658",
+    "type": "proced",
+    "title": "Turn"
+  },
+  {
+    "code": "659",
+    "type": "proced",
+    "title": "Other process to remove material"
+  },
+  {
+    "code": "660",
+    "type": "descript",
+    "title": "Structure repair procedure and data"
+  },
+  {
+    "code": "661",
+    "type": "descript",
+    "title": "Allowable damage"
+  },
+  {
+    "code": "662",
+    "type": "proced",
+    "title": "Temporary repair procedure"
+  },
+  {
+    "code": "663",
+    "type": "proced",
+    "title": "Standard repair procedure"
+  },
+  {
+    "code": "664",
+    "type": "proced",
+    "title": "Special repair procedure"
+  },
+  {
+    "code": "665",
+    "type": "proced",
+    "title": "Fly-in repair procedure"
+  },
+  {
+    "code": "666",
+    "type": "descript",
+    "title": "Material classification"
+  },
+  {
+    "code": "667",
+    "type": "descript",
+    "title": "Structure classification"
+  },
+  {
+    "code": "668",
+    "type": "descript",
+    "title": "Allowable damage of composite structures"
+  },
+  {
+    "code": "669",
+    "type": "descript",
+    "title": "Allowable damange of mixed structures"
+  },
+  {
+    "code": "670",
+    "type": "descript",
+    "title": "Locally make procedure and data"
+  },
+  {
+    "code": "671",
+    "type": "proced",
+    "title": "Making of parts"
+  },
+  {
+    "code": "680",
+    "type": "descript",
+    "title": "Battle damange repair procedure and data"
+  },
+  {
+    "code": "681",
+    "type": "proced",
+    "title": "Damage repair symbol marking"
+  },
+  {
+    "code": "682",
+    "type": "proced",
+    "title": "Identification of damaged hardware"
+  },
+  {
+    "code": "683",
+    "type": "proced",
+    "title": "Damage assessment"
+  },
+  {
+    "code": "684",
+    "type": "descript",
+    "title": "Utilization degradation"
+  },
+  {
+    "code": "685",
+    "type": "proced",
+    "title": "Repair procedure"
+  },
+  {
+    "code": "686",
+    "type": "proced",
+    "title": "Isolation procedure"
+  },
+  {
+    "code": "687",
+    "type": "proced",
+    "title": "Function test after battle damange repair"
+  },
+  {
+    "code": "688",
+    "type": "descript",
+    "title": "Battle damage repair kit"
+  },
+  {
+    "code": "689",
+    "type": "proced",
+    "title": "Damage repair"
+  },
+  {
+    "code": "690",
+    "type": "descript",
+    "title": "Miscellaneous"
+  },
+  {
+    "code": "691",
+    "type": "proced",
+    "title": "Marking"
+  },
+  {
+    "code": "692",
+    "type": "proced",
+    "title": "Connector repair"
+  },
+  {
+    "code": "693",
+    "type": "proced",
+    "title": "Varnish"
+  },
+  {
+    "code": "700",
+    "type": "proced",
+    "title": "Assemble, install and connect procedures"
+  },
+  {
+    "code": "701",
+    "type": "descript",
+    "title": "List of consumables associated with installation"
+  },
+  {
+    "code": "702",
+    "type": "descript",
+    "title": "List of materials associated with installation"
+  },
+  {
+    "code": "703",
+    "type": "descript",
+    "title": "List of expendables associated with installation"
+  },
+  {
+    "code": "704",
+    "type": "descript",
+    "title": "List of special support equipment and tools associated with installation"
+  },
+  {
+    "code": "705",
+    "type": "descript",
+    "title": "List of support equipment and tools associated with installation"
+  },
+  {
+    "code": "706",
+    "type": "descript",
+    "title": "List of software associated with installation"
+  },
+  {
+    "code": "707",
+    "type": "descript",
+    "title": "Parts list associated with installation"
+  },
+  {
+    "code": "710",
+    "type": "proced",
+    "title": "Assemble procedure"
+  },
+  {
+    "code": "711",
+    "type": "proced",
+    "title": "Tighten procedure"
+  },
+  {
+    "code": "712",
+    "type": "proced",
+    "title": "Lock procedure"
+  },
+  {
+    "code": "713",
+    "type": "proced",
+    "title": "Pack procedure"
+  },
+  {
+    "code": "714",
+    "type": "proced",
+    "title": "Assemble on operation site"
+  },
+  {
+    "code": "720",
+    "type": "proced",
+    "title": "Install procedure"
+  },
+  {
+    "code": "721",
+    "type": "proced",
+    "title": "Build up to usable configuration"
+  },
+  {
+    "code": "722",
+    "type": "proced",
+    "title": "Install support equipment/Install on support equipment"
+  },
+  {
+    "code": "723",
+    "type": "proced",
+    "title": "Preparation before installation"
+  },
+  {
+    "code": "724",
+    "type": "proced",
+    "title": "Follow-on maintenance"
+  },
+  {
+    "code": "725",
+    "type": "proced",
+    "title": "Ammunition loading"
+  },
+  {
+    "code": "726",
+    "type": "proced",
+    "title": "Activate launching device"
+  },
+  {
+    "code": "727",
+    "type": "proced",
+    "title": "Site location plans"
+  },
+  {
+    "code": "728",
+    "type": "proced",
+    "title": "Foundation preparation"
+  },
+  {
+    "code": "730",
+    "type": "proced",
+    "title": "Connect procedure"
+  },
+  {
+    "code": "740",
+    "type": "proced",
+    "title": "Close after access procedure"
+  },
+  {
+    "code": "750",
+    "type": "proced",
+    "title": "Load software procedure"
+  },
+  {
+    "code": "752",
+    "type": "proced",
+    "title": "Data loading"
+  },
+  {
+    "code": "760",
+    "type": "proced",
+    "title": "Reactivation procedure"
+  },
+  {
+    "code": "761",
+    "type": "proced",
+    "title": "Energize electrical network"
+  },
+  {
+    "code": "762",
+    "type": "proced",
+    "title": "Pressurize hydraulics"
+  },
+  {
+    "code": "800",
+    "type": "descript",
+    "title": "Package, handling, storage and transportation"
+  },
+  {
+    "code": "801",
+    "type": "descript",
+    "title": "List of consumables associated with storage"
+  },
+  {
+    "code": "802",
+    "type": "descript",
+    "title": "List of materials associated with storage"
+  },
+  {
+    "code": "803",
+    "type": "descript",
+    "title": "List of expendables associated with storage"
+  },
+  {
+    "code": "804",
+    "type": "descript",
+    "title": "List of special support equipment and tools associated with storage"
+  },
+  {
+    "code": "805",
+    "type": "descript",
+    "title": "List of support equipment and tools associated with storage"
+  },
+  {
+    "code": "806",
+    "type": "descript",
+    "title": "List of software associated with storage"
+  },
+  {
+    "code": "807",
+    "type": "descript",
+    "title": "Parts list associated with storage"
+  },
+  {
+    "code": "810",
+    "type": "proced",
+    "title": "Preservation procedure"
+  },
+  {
+    "code": "811",
+    "type": "proced",
+    "title": "Preparation for vehicle transportation"
+  },
+  {
+    "code": "812",
+    "type": "descript",
+    "title": "Shipping and storage - General"
+  },
+  {
+    "code": "820",
+    "type": "proced",
+    "title": "Procedure to remove preservation material"
+  },
+  {
+    "code": "830",
+    "type": "proced",
+    "title": "Procedure to put item in containers"
+  },
+  {
+    "code": "831",
+    "type": "proced",
+    "title": "Vehicle loading"
+  },
+  {
+    "code": "832",
+    "type": "proced",
+    "title": "Procedure to pack items"
+  },
+  {
+    "code": "840",
+    "type": "proced",
+    "title": "Procedure to remove item from containers"
+  },
+  {
+    "code": "841",
+    "type": "proced",
+    "title": "Vehicle unloading"
+  },
+  {
+    "code": "842",
+    "type": "proced",
+    "title": "Procedure to unpack items"
+  },
+  {
+    "code": "850",
+    "type": "proced",
+    "title": "Procedure to keep item serviceable when in storage"
+  },
+  {
+    "code": "860",
+    "type": "proced",
+    "title": "Procedure to move item when in storage"
+  },
+  {
+    "code": "870",
+    "type": "proced",
+    "title": "Procedure to prepare item for use after storage"
+  },
+  {
+    "code": "871",
+    "type": "proced",
+    "title": "Set on condition"
+  },
+  {
+    "code": "880",
+    "type": "proced",
+    "title": "Procedure when item got out of storage"
+  },
+  {
+    "code": "890",
+    "type": "descript",
+    "title": "Life data of item when in storage"
+  },
+  {
+    "code": "900",
+    "type": "descript",
+    "title": "Miscellaneous"
+  },
+  {
+    "code": "901",
+    "type": "descript",
+    "title": "Miscellaneous list of consumables"
+  },
+  {
+    "code": "902",
+    "type": "descript",
+    "title": "Miscellaneous list of materials"
+  },
+  {
+    "code": "903",
+    "type": "descript",
+    "title": "Miscellaneous list of expendables"
+  },
+  {
+    "code": "904",
+    "type": "descript",
+    "title": "Miscellaneous list of special support equipment and tools"
+  },
+  {
+    "code": "905",
+    "type": "descript",
+    "title": "Miscellaneous list of support equipment and tools"
+  },
+  {
+    "code": "906",
+    "type": "descript",
+    "title": "Miscellaneous list of software"
+  },
+  {
+    "code": "907",
+    "type": "descript",
+    "title": "Miscellaneous parts list"
+  },
+  {
+    "code": "910",
+    "type": "descript",
+    "title": "Miscellaneous"
+  },
+  {
+    "code": "911",
+    "type": "descript",
+    "title": "Illustration"
+  },
+  {
+    "code": "912",
+    "type": "proced",
+    "title": "Handling procedure"
+  },
+  {
+    "code": "913",
+    "type": "proced",
+    "title": "General maintenance procedure"
+  },
+  {
+    "code": "914",
+    "type": "container",
+    "title": "Container data module"
+  },
+  {
+    "code": "915",
+    "type": "descript",
+    "title": "Facilities"
+  },
+  {
+    "code": "916",
+    "type": "descript",
+    "title": "Maintenance allocation"
+  },
+  {
+    "code": "917",
+    "type": "descript",
+    "title": "Non-S1000D publication"
+  },
+  {
+    "code": "920",
+    "type": "proced",
+    "title": "Change = Remove and install"
+  },
+  {
+    "code": "921",
+    "type": "proced",
+    "title": "Change = Remove and install a new item"
+  },
+  {
+    "code": "922",
+    "type": "proced",
+    "title": "Change = Remove and install the removed item"
+  },
+  {
+    "code": "930",
+    "type": "sb",
+    "title": "Service bulletin"
+  },
+  {
+    "code": "931",
+    "type": "descript",
+    "title": "Service bulletin data"
+  },
+  {
+    "code": "932",
+    "type": "descript",
+    "title": "Planning information"
+  },
+  {
+    "code": "933",
+    "type": "proced",
+    "title": "Accomplishment procedure - Task set"
+  },
+  {
+    "code": "934",
+    "type": "sb",
+    "title": "Material information"
+  },
+  {
+    "code": "940",
+    "type": "descript",
+    "title": "Provisioning data"
+  },
+  {
+    "code": "941",
+    "type": "ipd",
+    "title": "Illustrated parts data"
+  },
+  {
+    "code": "942",
+    "type": "ipd",
+    "title": "Numerical index"
+  },
+  {
+    "code": "950",
+    "type": "descript",
+    "title": "Composite information"
+  },
+  {
+    "code": "951",
+    "type": "process",
+    "title": "Generic process"
+  },
+  {
+    "code": "952",
+    "type": "learning",
+    "title": "Generic learning content"
+  },
+  {
+    "code": "961",
+    "type": "descript",
+    "title": "Calculation worksheets"
+  },
+  {
+    "code": "970",
+    "type": "descript",
+    "title": "Approved vendor processes"
+  },
+  {
+    "code": "980",
+    "type": "descript",
+    "title": "Environmentmal protection, fire-fighting and rescue"
+  },
+  {
+    "code": "981",
+    "type": "descript",
+    "title": "Air cleaning"
+  },
+  {
+    "code": "982",
+    "type": "descript",
+    "title": "Sewage treatment"
+  },
+  {
+    "code": "989",
+    "type": "descript",
+    "title": "Fire-fighting and rescue"
+  },
+  {
+    "code": "990",
+    "type": "descript",
+    "title": "Neutralization and disposal"
+  },
+  {
+    "code": "991",
+    "type": "descript",
+    "title": "Neutralization of ordnance"
+  },
+  {
+    "code": "992",
+    "type": "descript",
+    "title": "Neutralization of substance"
+  },
+  {
+    "code": "996",
+    "type": "descript",
+    "title": "Disposal of ordnance"
+  },
+  {
+    "code": "997",
+    "type": "descript",
+    "title": "Disposal of Product"
+  },
+  {
+    "code": "998",
+    "type": "descript",
+    "title": "Disposal of substance"
+  }
+]
