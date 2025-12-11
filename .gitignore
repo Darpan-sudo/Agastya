@@ -1,0 +1,73 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build outputs
+dist/
+frontend/dist/
+frontend/build/
+*.exe
+*.msi
+
+# Logs
+*.log
+npm-debug.log*
+logs/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# User data
+license.json
+keys.json
+
+# Build artifacts
+builder-effective-config.yaml
+
+# Bundled tools (too large for Git)
+tools/python/
+tools/ruby/
+tools/java/
+tools/pandoc/
+
+# Old backend (not needed for IPC version)
+backend/
+
+# Documentation files (optional - keep only essential docs)
+CRITICAL_FIXES.md
+DMC_MAPPER_FIX.md
+ELECTRON_TROUBLESHOOTING.md
+LOGO_TEST_GUIDE.md
+QUICK_START.md
+REBUILD_INSTRUCTIONS.md
+main_split_v2_handler.txt
+test-asciidoctor.bat
+check-backend.js
